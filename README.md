@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Romain-Cycyk
 - 👀 I’m interested in Microfossils & Deep learning
-- 🌱 I just finished my Master Degree in Paleontology with an 6 month-Internship. My topic was about the automatic recognition of Ostracods (crustaceans) using Neural Network.
-- 💞️ I’m looking to collaborate/learning on R & python language (Beginner), deep learning and globally AI to applied in my field of work.
+- 🌱 I just finished my Master's Degree in Paleontology with a 6-month Internship. My topic was about the automatic recognition of Ostracods (crustaceans) using Neural networks.
+- 💞️ I’m looking to collaborate/learn R & python language (Beginner), deep learning and AI to apply in my field of work.
 <!---
 - 📫 How to reach me ...
 --->
